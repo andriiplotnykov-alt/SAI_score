@@ -1,9 +1,9 @@
 # SAI score
 ## Automated LBO drafting of 160 european companies
 
-This project is an end-to-end pipeline designed to **identify and evaluate potential Leveraged Buyout (LBO) opportunities among European companies**.
+This project is an end-to-end pipeline designed to **identify and evaluate potential LBO opportunities among European companies**.
 
-At the core of the system is the **SAI Note (Score of Attractivity of Investment)** — a scoring framework designed to rapidly estimate whether a company could represent a viable LBO target.
+At the core of the system is a scoring framework designed to rapidly estimate whether a company could represent a viable LBO target.
 
 The system combines:
 
