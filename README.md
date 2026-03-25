@@ -66,7 +66,6 @@ Below is the high-level architecture of the pipeline.
 
 ![Pipeline](pipeline_visualisation.png)
 
-*(replace the file name with your pipeline PNG once uploaded to the repo)*
 
 ---
 
